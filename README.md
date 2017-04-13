@@ -1,6 +1,8 @@
 # weekly_report
 此脚本对使用者的git commit log要求较严格，需要使用者的log有统一的格式规范，文字表达清楚，每行表述一个问题等。 
+
 使用方法：$sh weekly_report.sh **@meitu.com
+
 环境:bash
 
 Output sample:

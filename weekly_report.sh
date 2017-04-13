@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 ## TODO publish new report at thursday night
 

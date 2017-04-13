@@ -19,10 +19,10 @@ Output sample:
 
 ## 项目任务(commit message)
 
-增加Reporter使用用例，{@see ReporterTest#testReport}  
-提供接入方工具  
+增加Reporter使用用例，{@see ReporterTest#testReport}   
+提供Report接入方法工具类  
 更新使用MsgPack的Report请求参数  
-更新包结构  
-线程关闭方法
+更新Report包结构   
+提供Report线程关闭方法 
 
 ########################################

@@ -17,7 +17,7 @@ Output sample:
 * [update] GDT preload with correct Setting properites
 * [fixbug] SYGG-720
 
-## 项目任务(commit message)
+## 项目任务(commit message/description)
 
 增加Reporter使用用例，{@see ReporterTest#testReport}   
 提供Report接入方法工具类  

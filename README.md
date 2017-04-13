@@ -22,7 +22,7 @@ Output sample:
 增加Reporter使用用例，{@see ReporterTest#testReport}   
 提供Report接入方法工具类  
 更新使用MsgPack的Report请求参数  
-更新Report包结构   
+更新Report包结构  
 提供Report线程关闭方法 
 
 ########################################

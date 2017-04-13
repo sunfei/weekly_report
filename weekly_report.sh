@@ -1,3 +1,5 @@
+!/bin/bash
+
 ## TODO publish new report at thursday night
 
 rm log.txt
